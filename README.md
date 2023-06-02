@@ -1,5 +1,5 @@
 # Repositório Programa ONE - Oracle Next Education
-Este repositório é um espaço central onde documentei minha jornada de aprendizado, reunindo links para todos os meus repositórios de cursos individuais. Cada curso tem seu próprio repositório dedicado, onde você pode encontrar todos os materiais, exercícios e desafios.
+Este repositório é um espaço central onde documento minha jornada de aprendizado, reunindo links para todos os meus repositórios de cursos individuais. Cada curso tem seu próprio repositório dedicado, onde você pode encontrar todos os materiais, exercícios e desafios.
 
 <img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/ab736b12-62a0-4f05-90e0-380d5e756c41" width="300">
 
