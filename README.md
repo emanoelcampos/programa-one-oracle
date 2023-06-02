@@ -22,13 +22,16 @@ Introdução abrangente aos conceitos básicos da programação, explorando ling
 - [HTML5 e CSS3 parte 4: avançando no CSS](https://github.com/emanoelcampos/html-css-4)
 
 ## Formação Java
+
 <img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/5b256c6c-7c68-4ba3-864e-95f4d677960b" width="220">
+
 Aprendizagem dos primeiros passos com a linguagem, orientação a objetos; avançando para conhecimentos sobre herança, interface e exceções. Trabalha com pacotes entre eles o java.lang, e conhecerá o java.util.
 
 - junho / julho
 
 ## Formação Spring Framework
 Aprimorando habilidades em Java e explorando o Spring Framework. Passando por banco de dados, injeção de dependência, persistência de dados, segurança e criação de APIs RESTful. Práticas de arquitetura de software com o uso de Spring Boot, Spring MVC e Spring Data.
+
 - agosto / setembro
 
 <img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/d610e7bf-cae8-4763-9031-cdaa65cffa76" width="180">
