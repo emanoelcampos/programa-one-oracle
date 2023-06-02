@@ -9,7 +9,7 @@ Este repositório é um espaço central onde documento minha jornada de aprendiz
 
 Introdução abrangente aos conceitos básicos da programação, explorando linguagens como JavaScript, HTML e CSS. Fundamentos iniciais até a criação de layouts responsivos, adquirindo habilidades para desenvolver aplicações web interativas e dinâmicas.
 
-### Cursos de HTML e Javascript
+### Cursos de HTML e JavaScript
 - [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://github.com/emanoelcampos/javascript-html-logica-programacao-1)
 - [JavaScript e HTML: pratique lógica com desenhos, animações e um jogo](https://github.com/emanoelcampos/javascript-html-logica-programacao-2)
 
