@@ -1,7 +1,7 @@
 # Repositório Programa ONE - Oracle Next Education
 Este repositório é um espaço central onde documento minha jornada de aprendizado, reunindo links para todos os meus repositórios de cursos individuais. Cada curso tem seu próprio repositório dedicado, onde você pode encontrar todos os materiais, exercícios e desafios.
 
-<div align="center" ><img src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/ab736b12-62a0-4f05-90e0-380d5e756c41" width="300"></div>
+<div align="center" ><img src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/ab736b12-62a0-4f05-90e0-380d5e756c41" width="450"></div>
 
 ## Formação Iniciante em Programação
 
@@ -23,7 +23,7 @@ Introdução abrangente aos conceitos básicos da programação, explorando ling
 
 ## Formação Java
 
-<img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/5b256c6c-7c68-4ba3-864e-95f4d677960b" width="220">
+<img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/5b256c6c-7c68-4ba3-864e-95f4d677960b" width="250">
 
 Aprendizagem dos primeiros passos com a linguagem, orientação a objetos; avançando para conhecimentos sobre herança, interface e exceções. Trabalha com pacotes entre eles o java.lang, e conhecerá o java.util.
 
