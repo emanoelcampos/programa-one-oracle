@@ -27,8 +27,7 @@ Introdução abrangente aos conceitos básicos da programação, explorando ling
 
 Aprendizagem dos primeiros passos com a linguagem, orientação a objetos; avançando para conhecimentos sobre herança, interface e exceções. Trabalha com pacotes entre eles o java.lang, e conhecerá o java.util.
 - [Java JRE e JDK: compile e execute o seu programa](https://github.com/emanoelcampos/java-jre-jdk)
-
-- junho / julho
+- [Java OO: entendendo a Orientação a Objetos](https://github.com/emanoelcampos/java-orientacao-objetos)
 
 ## Formação Spring Framework
 Aprimorando habilidades em Java e explorando o Spring Framework. Passando por banco de dados, injeção de dependência, persistência de dados, segurança e criação de APIs RESTful. Práticas de arquitetura de software com o uso de Spring Boot, Spring MVC e Spring Data.
