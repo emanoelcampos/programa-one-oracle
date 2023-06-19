@@ -29,6 +29,7 @@ Aprendizagem dos primeiros passos com a linguagem, orientação a objetos; avan�
 - [Java JRE e JDK: compile e execute o seu programa](https://github.com/emanoelcampos/java-jre-jdk)
 - [Java OO: entendendo a Orientação a Objetos](https://github.com/emanoelcampos/java-object-oriented)
 - [Java Polimorfismo: entenda herança e interfaces](https://github.com/emanoelcampos/java-polymorphism)
+- [Java Exceções: aprenda a criar, lançar e controlar exceções](https://github.com/emanoelcampos/java-exceptions)
 
 ## Formação Spring Framework
 Aprimorando habilidades em Java e explorando o Spring Framework. Passando por banco de dados, injeção de dependência, persistência de dados, segurança e criação de APIs RESTful. Práticas de arquitetura de software com o uso de Spring Boot, Spring MVC e Spring Data.
