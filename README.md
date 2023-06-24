@@ -25,7 +25,8 @@ Introdução abrangente aos conceitos básicos da programação, explorando ling
 
 <img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/7bf8aed1-0c01-44a8-97e1-fd084f77682a" width="120">
 
-Aprendizagem dos primeiros passos com a linguagem, orientação a objetos; avançando para conhecimentos sobre herança, interface e exceções. Trabalha com pacotes entre eles o java.lang, e conhecerá o java.util.
+Aprendizagem dos primeiros passos com a linguagem, orientação a objetos, avançando para conhecimentos sobre herança, interface e exceções. Apresentação e desenvolvimento de pacotes fundamentais, entre eles o java.lang e o java.util.
+
 - [Java JRE e JDK: compile e execute o seu programa](https://github.com/emanoelcampos/java-jre-jdk)
 - [Java OO: entendendo a Orientação a Objetos](https://github.com/emanoelcampos/java-object-oriented)
 - [Java Polimorfismo: entenda herança e interfaces](https://github.com/emanoelcampos/java-polymorphism)
