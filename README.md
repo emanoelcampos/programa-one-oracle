@@ -40,6 +40,7 @@ Aprimorando habilidades em Java e explorando o Spring Framework. Passando por ba
 <img align="right" src="https://github.com/emanoelcampos/programa-one-oracle/assets/68448029/d610e7bf-cae8-4763-9031-cdaa65cffa76" width="130">
 
 - [SQL com MySQL: manipule e consulte dados](https://github.com/emanoelcampos/sql-mysql)
+- [Java e JDBC: trabalhando com um banco de dados](https://github.com/emanoelcampos/java-jdbc)
 
 ## Challenges Back-End
 - [Iniciante em Programação - Decodificador de Texto](https://github.com/emanoelcampos/decodificador-texto)
