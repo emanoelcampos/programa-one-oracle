@@ -42,6 +42,7 @@ Aprimorando habilidades em Java e explorando o Spring Framework. Passando por ba
 - [SQL com MySQL: manipule e consulte dados](https://github.com/emanoelcampos/sql-mysql)
 - [Java e JDBC: trabalhando com um banco de dados](https://github.com/emanoelcampos/java-jdbc)
 - [Persistência com JPA: Hibernate](https://github.com/emanoelcampos/jpa-hibernate)
+- [Java e JPA: consultas avançadas, performance e modelos complexos](https://github.com/emanoelcampos/java-jpa)
 
 ## Challenges Back-End
 - [Iniciante em Programação - Decodificador de Texto](https://github.com/emanoelcampos/decodificador-texto)
