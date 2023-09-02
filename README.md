@@ -48,5 +48,5 @@ Aprimorando habilidades em Java e explorando o Spring Framework. Passando por ba
 ## Challenges Back-End
 - [Iniciante em Programação - Decodificador de Texto](https://github.com/emanoelcampos/decodificador-texto)
 - [Back End Java - Conversor](https://github.com/emanoelcampos/converter)
-- [Back End Java + JDBC - Hotel Alura]() - agosto/setembro
+- [Back End Java + JDBC - Hotel Alura](https://github.com/emanoelcampos/hotel-alura) 
 - [Back End Spring Boot - Fórum Alura]() - agosto/setembro
